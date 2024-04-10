@@ -6,7 +6,7 @@
 
 <style scoped>
     .template-main {
-        height: calc(100vh - 57px);
+        height: calc(100vh);
         width: 100%;
         background-image: url(../../public/images1.jpg);
         /* background-repeat: no-repeat; */
@@ -16,6 +16,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        position: relative;
     }
 
     .title{

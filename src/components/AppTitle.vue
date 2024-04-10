@@ -4,8 +4,12 @@
 
 <style scoped>
     h1{
-        text-align: center;
+        left: 50%;
+        transform: translate(-50%);
         margin: 0;
         padding: 10px;
+        position: absolute;
+        z-index: 1;
+        color: white;
     }
 </style>
